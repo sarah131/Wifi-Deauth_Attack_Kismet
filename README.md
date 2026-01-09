@@ -119,6 +119,17 @@ Recommended defenses against deauthentication attacks include:
 Detailed mitigation notes are available in the attached PDF and theory documentation.
 
 ---
+## Reference Links
+
+- **Kismet on Kali Linux (Tool Detection & Usage)**  
+  https://www.kali.org/tools/kismet/
+
+- **About Kismet (Wikipedia)**  
+  https://en.wikipedia.org/wiki/Kismet_(software)
+
+- **Kismet Development & Plugin Documentation**  
+  https://www.kismetwireless.net/docs/dev/plugins/
+---
 
 ## Disclaimer
 
